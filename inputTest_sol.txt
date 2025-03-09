@@ -1,0 +1,5 @@
+// For Part 1
+Chamber's height :  3068 !
+
+// For part 2
+Chamber's height :  1514285714288 !
